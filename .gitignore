@@ -1,0 +1,37 @@
+# Ignorar diretório do ambiente virtual
+venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Ignorar arquivos de banco de dados SQLite
+*.db
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+
+# Ignorar arquivos de configuração local (se houver)
+.env
+.flaskenv
+
+# Ignorar arquivos de IDEs (ex: VS Code)
+.vscode/
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+thumbs.db
+
+# Ignorar arquivos de upload (se houver)
+uploads/
+
+# Ignorar arquivos de saída de PDF
+*.pdf
+
+
