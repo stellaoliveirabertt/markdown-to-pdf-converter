@@ -106,11 +106,6 @@ curl -X POST -F "file=@documento.md" http://localhost:5000/api/convert -o docume
 - weasyprint: Geração de PDF
 - werkzeug: Utilitários web
 
-## Autor
-Aqui vai uma sugestão de como você pode se adicionar como autora e explicar a motivação do projeto de forma clara e com personalidade:
-
----
-
 ## Autoria
 
 Desenvolvido por [Stella Moreira](https://www.linkedin.com/in/stellaoliveiram/) com o apoio de ferramentas de IA.
